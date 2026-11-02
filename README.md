@@ -120,4 +120,4 @@ Limites connues du socle :
 
 ## Temps passé
 
-À compléter avec le temps réellement passé : `__ h`.
+À compléter avec le temps réellement passé : `3h`.
