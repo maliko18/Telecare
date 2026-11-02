@@ -1,0 +1,13 @@
+{
+  "name": "waiting-room-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API REST de la salle d'attente de téléconsultation (données en mémoire)",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
